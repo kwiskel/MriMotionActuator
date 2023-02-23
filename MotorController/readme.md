@@ -19,3 +19,5 @@ https://www.electronicwings.com/raspberry-pi/stepper-motor-interfacing-with-rasp
 
 RPi pins
 https://www.electronicwings.com/raspberry-pi/raspberry-pi-gpio-access
+
+ssh 192.168.1.71 -l pi
